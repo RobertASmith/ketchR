@@ -4,6 +4,13 @@
 ## Polygons #####
 #################
 
+# hello
+
+hi_paul <- function(message){
+  print(paste("Hi Paul",message))
+}
+
+
 # To generate the footprint_polys data
 footprint_poly <- function() {
 

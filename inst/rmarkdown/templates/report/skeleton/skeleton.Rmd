@@ -1,7 +1,7 @@
 ---
-title: "ketchbrookTemplate"
+title:  "Dark Peak Analytics Template"
 author: "Brad Lindblad"
-date: "3/4/2019"
+date:   "`r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
 
@@ -9,22 +9,60 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+\newpage
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Abstract
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+### Objectives 
 
-```{r cars}
-summary(cars)
-```
+Abs- objectives
 
-## Including Plots
+### Background 
 
-You can also embed plots, for example:
+Abs- intro
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+### Methods 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Abs- methods
+
+### Results 
+
+Abs- results 
+
+### Conclusions
+
+Abs-conclusions
+
+\newpage
+
+
+
+## Introduction
+
+Insert Introduction
+
+## Methods
+
+Insert Methods
+
+## Results
+
+Insert Results
+
+## Insert Discussion
+
+Insert Discussion
+
+## Conclusions
+
+Insert Conclusions
+
+\newpage
+
+## References
+
+Insert References
+
+\newpage
+
+## Appendix
